@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smartsolutions.Server", "Smartsolutions.Server\Smartsolutions.Server.csproj", "{E120B32F-B4C7-4F38-9813-B9B50B821D72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartSolutions.DataStore", "SmartSolutions.DataStore\SmartSolutions.DataStore.csproj", "{3223138B-A860-429C-B647-7B3948909CBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E120B32F-B4C7-4F38-9813-B9B50B821D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E120B32F-B4C7-4F38-9813-B9B50B821D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E120B32F-B4C7-4F38-9813-B9B50B821D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E120B32F-B4C7-4F38-9813-B9B50B821D72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3223138B-A860-429C-B647-7B3948909CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3223138B-A860-429C-B647-7B3948909CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3223138B-A860-429C-B647-7B3948909CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3223138B-A860-429C-B647-7B3948909CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5FD1CA6-C78F-4DA0-99DB-96F97EE85E3B}
+	EndGlobalSection
+EndGlobal
